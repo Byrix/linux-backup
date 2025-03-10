@@ -75,7 +75,7 @@ COMPLETION_WAITING_DOTS="true"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git sudo dirhistory chucknorris conda conda-env command-not-found alias-finder history lol man pip postgres python pylint ssh-agent sudo wd )
+plugins=(git sudo dirhistory chucknorris conda conda-env command-not-found alias-finder history lol man pip postgres python pylint ssh-agent wd )
 
 source $ZSH/oh-my-zsh.sh
 
